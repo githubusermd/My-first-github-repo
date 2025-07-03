@@ -1,8 +1,12 @@
-div{
+.jjgg{
     background-color: brown;
     padding: 20px;
 }
 #fffhh{
     background-color: aqua;
     padding: 50px;
+}
+.vvxx{
+    background-color: blue;
+    font-kerning: calc();
 }
